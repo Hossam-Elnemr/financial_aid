@@ -1,6 +1,6 @@
 '''
 Why should I do the financial aid application?
-- You can't submit your quizzes or view the assignments without purchasing th course or the financial aid,
+- You can't submit your quizzes or view the assignments without purchasing the course or the financial aid,
 therefore, you will not be able to to take the certificate at the end of the course.
 So, if you want to submit the financial aid apllication, follow the following steps:
 
