@@ -5,7 +5,7 @@ therefore, you will not be able to to take the certificate at the end of the cou
 So, if you want to submit the financial aid apllication, follow the following steps:
 
 1-  Using a computer, search for the course you want to apply financial aid for it.
-2-  Click on "Fiancial adi available"
+2-  Click on "Financial aid available"
 3-  Educational Background: Select "High school" if you're a high school student.
 4-  Annual Income = 0
 5-  Employment Status: Select "Student"
